@@ -7,7 +7,6 @@ main()
 	cout<<"Entre the value of n : ";
 	cin>>n;
 	int a,sum=0;
-
 		while(n>0)
 		{
 			a=n%10;
